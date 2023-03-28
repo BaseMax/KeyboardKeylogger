@@ -4,7 +4,7 @@ This is a simple keyboard keylogger for Desktop systems. It is written in Python
 
 ## Usage
 
-To use the sniffer, simply run the `sniffer.py` file. It will start capturing keyboard events and save them to a file called `keys_pressed.txt`. To stop the sniffer, press `Ctrl + C` in the terminal.
+To use the keylogger, simply run the `keylogger.py` file. It will start capturing keyboard events and save them to a file called `keys_pressed.txt`. To stop the sniffer, press `Ctrl + C` in the terminal.
 
 ## Requirements
 
