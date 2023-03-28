@@ -1,6 +1,6 @@
-# Keyboard Sniffer
+# Keyboard Keylogger
 
-This is a simple keyboard sniffer for Desktop systems. It is written in Python and uses the `keyboard` library to capture keyboard events. It is a simple proof of concept and is not intended for any malicious use.
+This is a simple keyboard keylogger for Desktop systems. It is written in Python and uses the `keyboard` library to capture keyboard events. It is a simple proof of concept and is not intended for any malicious use.
 
 ## Usage
 
